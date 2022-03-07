@@ -1,0 +1,14 @@
+certifi==2021.5.30
+charset-normalizer==2.0.5
+docutils==0.17.1
+idna==3.2
+kaki==0.1.4
+Kivy==2.0.0
+Kivy-Garden==0.1.4
+kivymd==0.104.2
+monotonic==1.6
+Pillow==8.3.2
+Pygments==2.10.0
+requests==2.26.0
+urllib3==1.26.6
+watchdog==2.1.5
